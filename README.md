@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=twinkling&height=300&section=header&text=YOO%20MINHO&fontSize=90)
 
-<h3 align="center"> 👾 SKILL 👾</h3>
+<h3 align="center"> 😁 SKILL 😁</h3>
 
 <p align="center"> Available skills. </p>
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></a>&nbsp </p>
   
-<h3 align="center"> 🔮 ME 🔮</h3>
+<h3 align="center">😊 ME 😊</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ymh0951@kakao.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>&nbsp
