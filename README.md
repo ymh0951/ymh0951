@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=twinkling&height=300&section=header&text=SEOLAH%20CHLOE&fontSize=90)
-
 <h3 align="center"> 🔮🌷💎✨🎪🎠 </h3>
 
 <h3 align="center"> 👾 Tech Stack 👾</h3>
