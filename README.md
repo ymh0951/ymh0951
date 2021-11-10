@@ -1,31 +1,88 @@
-<h3 align="center"> 🔮🌷💎✨🎪🎠 </h3>
+# ▎안녕하세요,<br>▎프론트엔드 개발자<br>▎장보연입니다.
 
-<h3 align="center"> 👾 Tech Stack 👾</h3>
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=BoYeonJang&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoYeonJang&layout=compact&theme=material-palenight)
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
 
-<p align="center"> Techs that I've used at least once </p>
+## ▎🛠 Tech Stacks
+- Front-end : <span><img src="https://img.shields.io/badge/HTML-e34f26?style=flat&logo=html5&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/CSS-1572b6?style=flat&logo=css3&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Vuetify-00C58E?style=flat&logo=Vuetify&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Nuxt.js-38B2AC?style=flat&logo=Nuxt.js&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Sass-cc6699?style=flat&logo=sass&logoColor=white"/></span><br/>
+- Database : <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></span><br/>
+- Communication : <span><img src="https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Figma-f24e1e?style=flat&logo=figma&logoColor=white"/></span><br/>
+- Version Control : <span><img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=git&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=html&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp  
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>&nbsp </p>
+## ▎📚 Blog For Learning
+- ### https://velog.io/@colorful-stars
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/IntelliJ IDEA-CC0066?style=flat-square&logo=intellij idea&logoColor=white"/></a>&nbsp 
+## ▎🧑‍💻 Portfolio Notion
+- ### https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375
 
+<!-- <h3 align='center'>Hi there 👋</h3>
+<br>
+<p align='center'>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=BoYeonJang&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+  </a>
+</p>
+<br>
+<h3 align='center'>🔨 Stack 🔧</h3>
+<p align='center'>Techs in use by the company</p>
+<p align='center'>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white"/>
+</p>
+<br>
+<h3 align='center'>🍑 ME 🍑</h3>
+<p align='center'>
+  <a href="https://velog.io/@colorful-stars" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/>
+  </a>
+  <a href="https://www.notion.so/3d45c6bd2cbd4f938873a4bd12e23375" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
+  <a href="mailto:uko010199@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/>
+  </a>
+</p>
+<br>
+<p align='center'>
+  <a href="https://github.com/BoYeonJang" target="nofollow">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBoYeonJang&count_bg=%237296CB&title_bg=%23707070&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
+</p> -->
 
+<!--
+GitHub 통계의 경우 아래 링크 확인
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_kr.md
+-->
 
+<!--
+**BoYeonJang/BoYeonJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
 
-<h3 align="center"> 🔮 Me 🔮</h3>
-
-
-<p align="center">
-  <a href="https://www.instagram.com/codebychloe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/></a>&nbsp 
-  <a href="seolahchloe.chung@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://github.com/seolahchloe"/></a>&nbsp 
-  <a href="https://seolahchloe.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-6400AA?style=flat-square&logo=githubsponsers&logoColor=white&link=https://github.com/seolahchloe"/></a>&nbsp
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
