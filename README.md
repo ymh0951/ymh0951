@@ -23,4 +23,5 @@
   <a href="https://www.instagram.com/_elated_mh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/></a>&nbsp 
   
 <p align="center">
-  <img src="https://img.shields.io/github/followers/ymh0951?style=social"/></a>&nbsp</p>
+  <img src="https://img.shields.io/github/followers/ymh0951?style=social"/></a>&nbsp
+  <img src="https://img.shields.io/github/watchers/ymh0951/ymh0951?style=social"/></a>&nbsp</p>
