@@ -24,4 +24,4 @@
   
 <p align="center">
   <img src="https://img.shields.io/github/followers/ymh0951?style=social"/></a>&nbsp
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fymh0951%2Fhit-counter&count_bg=%23404040&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false"/></a></p>
+  <img src="https://img.shields.io/github/watchers/ymh0951/ymh0951?style=social"/></a>&nbsp</p>
