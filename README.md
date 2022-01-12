@@ -20,7 +20,7 @@
 </p>
 
 
-<p align="center">design</p>
+<p align="center">Design</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp 
