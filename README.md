@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Minho%20Github&fontSize=80)
 
-<h3 align="center"> 😁 SKILL 😁</h3>
+<h3 align="center">🛠 Stack 🛠</h3>
 
-Front-End
+<h4 align="center">Front-End</h4>
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"/></a>&nbsp  
@@ -13,8 +14,9 @@ Front-End
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/></a>&nbsp 
+</p>
 
-<p align="center">Back-End</p>
+<h4 align="center">Back-End</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
@@ -26,7 +28,7 @@ Front-End
 
 </p>
 
-<p align="center">ETC</p>
+<h4 align="center">ETC</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>&nbsp 
@@ -35,7 +37,7 @@ Front-End
   <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></a>&nbsp 
 </p>
   
-<h3 align="center">😊 ME 😊</h3>
+<h3 align="center">📬 ME 📬</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/ymh0951@kakao.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>&nbsp
