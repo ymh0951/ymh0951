@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&animation=twinkling&height=300&section=header&text=YOO%20MINHO&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=200&section=header&text=Minho%20Github&fontSize=80)
 
 <h3 align="center"> 😁 SKILL 😁</h3>
 
@@ -43,6 +43,13 @@
   <img src="https://img.shields.io/badge/ymh0951@kakao.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/ymh0951@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
 </p>
+
+<div style='display: flex;'>
+![ymh0951 GitHub stats](https://github-readme-stats.vercel.app/api?username=ymh0951&show_icons=true&theme=dracula)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymh0951&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
+![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ymh0951)
+
 
 <p align="center">
     <a href="https://www.facebook.com/profile.php?id=100003937776695"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003937776695"/></a>&nbsp 
