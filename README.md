@@ -44,13 +44,10 @@
   <img src="https://img.shields.io/badge/ymh0951@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>&nbsp
 </p>
 
-<p style="display: flex;">
-  
-  ![ymh0951 GitHub stats](https://github-readme-stats.vercel.app/api?username=ymh0951&show_icons=true&theme=dracula)
-  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymh0951&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-</p>
-
 <p align="center">
     <a href="https://www.facebook.com/profile.php?id=100003937776695"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003937776695"/></a>&nbsp 
   <a href="https://www.instagram.com/_elated_mh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/></a>&nbsp 
 </p>
+
+![ymh0951 GitHub stats](https://github-readme-stats.vercel.app/api?username=ymh0951&show_icons=true&theme=dracula)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymh0951&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
