@@ -51,7 +51,7 @@
 
 <p align="center">
   
-![ymh0951 GitHub stats](https://github-readme-stats.vercel.app/api?username=ymh0951&show_icons=true&theme=dracula&width=100%)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymh0951&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&width=100%)
+![ymh0951 GitHub stats](https://github-readme-stats.vercel.app/api?username=ymh0951&show_icons=true&theme=dracula)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymh0951&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
   
 </p>
