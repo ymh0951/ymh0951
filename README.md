@@ -13,7 +13,6 @@
   <br>
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/></a>&nbsp 
 </p>
 
 <h4 align="center">Back-End</h4>
