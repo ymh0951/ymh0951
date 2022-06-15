@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=100&section=header&text=Minho%20Github&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=150&section=header&text=Minho%20Github&fontSize=80)
 
 <h3 align="center">🛠 Stack 🛠</h3>
 
@@ -49,5 +49,9 @@
   <a href="https://www.instagram.com/_elated_mh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/></a>&nbsp 
 </p>
 
+<p align="center">
+  
 ![ymh0951 GitHub stats](https://github-readme-stats.vercel.app/api?username=ymh0951&show_icons=true&theme=dracula)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymh0951&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+  
+</p>
