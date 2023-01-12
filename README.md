@@ -1,10 +1,5 @@
 # Welcome To Minho Yoo's Github 😊
 
-![ymh0951 GitHub stats](https://github-readme-stats.vercel.app/api?username=ymh0951&show_icons=true&theme=dracula)
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ymh0951&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ymh0951&color=dark)](https://velog.io/@ymh0951)
-## 🛠 Stack 🛠
-
 ### Front-End
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></span>
