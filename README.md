@@ -1,5 +1,9 @@
 # Welcome To Minho Yoo's Github 😊
 
+![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
+
+***
+
 ### Front-End
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></span>
