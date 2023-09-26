@@ -4,7 +4,7 @@
 
 ***
 
-### Front-End
+### 🖥️ Front-End 🖥️
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></span>
@@ -19,7 +19,7 @@
 <span><img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=Nuxt.js&logoColor=white"/></span>
 
-### Back-End
+### ⚙️ Back-End ⚙️
 
 <span><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></span>
@@ -29,14 +29,14 @@
 <span><img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/></span>
 
-### ETC
+### ⚒️ ETC ⚒️
 
 <span><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></span>
 
-### Design
+### 🖌️ Design 🖌️
 
 <span><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/></span>
@@ -51,3 +51,9 @@
 <a href="https://www.facebook.com/profile.php?id=100003937776695"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003937776695"/>
 <a href="https://www.instagram.com/_elated_mh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/>
 <a href="https://velog.io/@ymh0951"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+
+***
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymh0951)](https://github.com/ymh0951/github-readme-stats)
+<br>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ymh0951)](https://github.com/ymh0951/velog-readme-stats)
