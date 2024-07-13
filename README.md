@@ -1,6 +1,6 @@
 # Welcome To Minho Yoo's Github 😊
 
-I am a Front-end developer using Vue.js Framework who is interested in learning, growth, and education.
+I am a Front-end developer using React.js, Vue.js Framework who is interested in learning, growth, and education.
 
 ![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
 
