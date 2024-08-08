@@ -37,7 +37,7 @@ I am a Front-end developer using React.js, Vue.js Framework who is interested in
 <span><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/Cypress#69D3A7?style=flat-square&logo=Cypress&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=Cypress&logoColor=white"/></span>
 
 ### 🖌️ Design 🖌️
 
