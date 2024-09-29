@@ -49,8 +49,7 @@ I am a Front-end developer using React.js, Vue.js Framework who is interested in
   
 ## 📬 My Contact  📬
 
-<span><img src="https://img.shields.io/badge/ymh0951@kakao.com-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white"/></span>
-<span><img src="https://img.shields.io/badge/ymh0951@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/ymh0951@google.com-4285F4?style=flat-square&logo=google&logoColor=white"/></span>
 <br>
 <a href="https://www.facebook.com/profile.php?id=100003937776695"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100003937776695"/>
 <a href="https://www.instagram.com/_elated_mh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=instagram.com/codebychloe"/>
