@@ -2,7 +2,13 @@
 
 I am a Front-end developer using React.js, Vue.js Framework who is interested in learning, growth.
 
-![](https://media.tenor.com/y2JXkY1pXkwAAAAM/cat-computer.gif)
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/ymh0951"
+  width="600"
+  height="300"
+/>
+</a>
 
 ***
 
