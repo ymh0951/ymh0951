@@ -66,6 +66,5 @@ I am a Front-end developer using React.js, Vue.js Framework who is interested in
 
 ***
 
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ymh0951?theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymh0951)](https://github.com/ymh0951/github-readme-stats)
-<br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ymh0951)](https://github.com/ymh0951/velog-readme-stats)
