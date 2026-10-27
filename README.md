@@ -1,6 +1,6 @@
 # Welcome To Minho Yoo's Github 😊
 
-I am a Front-end developer using React.js, Vue.js Framework who is interested in learning, growth.
+I'm a Product Engineer who strives to deeply understand users, identify real problems, and build products that deliver meaningful value.
 
 <a href="https://github.com/devxb/gitanimals">
 <img
