@@ -53,6 +53,12 @@ I'm a Product Engineer who strives to deeply understand users, identify real pro
 
 <span><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></span>
 
+### 🤖 AI 🤖
+
+<span><img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Claude Code-D97757?style=flat-square&logo=claudecode&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/></span>
+
   
 ## 📬 My Contact  📬
 
