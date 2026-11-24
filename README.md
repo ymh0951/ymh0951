@@ -70,5 +70,6 @@ I'm a Product Engineer who strives to deeply understand users, identify real pro
 
 ***
 
-![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/ymh0951?theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ymh0951)](https://github.com/ymh0951/github-readme-stats)
+<a href="https://velog.io/@ymh0951">
+  <img src="https://velo-card.profilecard.workers.dev/api?name=ymh0951&theme=dark" alt="ymh0951 velog" />
+</a>
